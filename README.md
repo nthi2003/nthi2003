@@ -22,7 +22,7 @@
       </p>
       <p align="center">
       anime <br>
-     <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" alt="dev" width="20%"/>
+     <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif](https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" alt="dev" width="20%"/>
       </p>
          <p align="center">
       car <br>
