@@ -24,8 +24,6 @@
   
   <br/><br/><br/>
 </div>
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> **Spotify Playing**
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iv6cijl1o8ojeu119tjll77ne&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=49e53e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 # 💻 Tech Stack:
