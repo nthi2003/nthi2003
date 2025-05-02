@@ -46,13 +46,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-🚀 Current Projects
-<div align="center">
-  <a href="https://github.com/nthi2003/MocF-B">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nthi2003&repo=MocF-B&theme=radical" />
-  </a>
-  <!-- Add another project here if you want -->
-</div>
+
 📊 GitHub Stats
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nthi2003&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
