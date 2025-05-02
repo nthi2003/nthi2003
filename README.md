@@ -47,20 +47,4 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nthi2003&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nthi2003&theme=radical&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthi2003&theme=radical&layout=compact&langs_count=8" alt="Most Used Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nthi2003&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-🐍 My Contributions
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
 
